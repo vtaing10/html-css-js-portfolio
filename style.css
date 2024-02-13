@@ -276,7 +276,7 @@ section {
 }
 
 .about-details-container {
-    display: flex;
+    flex-direction: coloumn;
     justify-content: center; 
 }
 
