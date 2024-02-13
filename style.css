@@ -276,7 +276,6 @@ section {
 }
 
 .about-details-container {
-    flex-direction: column;
     display: flex;
     justify-content: space-between; 
     align-items: flex-start;
