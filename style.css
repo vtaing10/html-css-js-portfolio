@@ -20,7 +20,7 @@ html{
 }
 
 p{
-    color: rbg(85,85,85);
+    color: rgb(85,85,85);
 }
 
 /* TRANSITION */
@@ -288,6 +288,7 @@ section {
 
 .about-pic{
     border-radius: 2rem;
+    width:400rem;
 }
 
 .arrow{
